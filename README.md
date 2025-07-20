@@ -14,11 +14,11 @@ Exercício é parte do **Bootcamp DIO em parceria com NTT Data**.
 
 ## ✨ Funcionalidades
 
-* 🔹 **Dar Banho:** Lava o pet que está na máquina, consumindo água e shampoo e alterando seu estado para "limpo".
-* 🔹 **Abastecer:** Permite reabastecer os níveis de água e shampoo da máquina até sua capacidade máxima.
-* 🔹 **Gerenciar Pet:** Adiciona um pet à máquina (somente se ela estiver limpa e vazia) e o remove após o uso.
-* 🔹 **Manutenção:** Realiza a limpeza da própria máquina, consumindo recursos.
-* 🔹 **Verificar Status:** Consulta os níveis de água e shampoo e verifica se a máquina está ocupada por um pet.
+🔹 **Dar Banho:** Lava o pet que está na máquina, consumindo água e shampoo e alterando seu estado para "limpo".
+🔹 **Abastecer:** Permite reabastecer os níveis de água e shampoo da máquina até sua capacidade máxima.
+🔹 **Gerenciar Pet:** Adiciona um pet à máquina (somente se ela estiver limpa e vazia) e o remove após o uso.
+🔹 **Manutenção:** Realiza a limpeza da própria máquina, consumindo recursos.
+🔹 **Verificar Status:** Consulta os níveis de água e shampoo e verifica se a máquina está ocupada por um pet.
 
 ---
 
